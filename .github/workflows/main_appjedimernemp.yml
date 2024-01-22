@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'mernstackexamplenodejs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8C830F2CD33B4718909D2207143BCA67 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_CLIENTID_82242949A8ED466FB944F682267EF9F8 }}
           package: .
